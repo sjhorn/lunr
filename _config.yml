@@ -3,8 +3,8 @@ title: Lunr
 email: 
 description: >
   A bit like Solr, but much smaller and not as bright
-baseurl: "/lunr"
-url: "https://blog.hornmicro.com"
+baseurl: ""
+url: "https://lunr.hornmicro.com"
 twitter_username: scottjhorn
 github_username:  sjhorn
 # Build Settings
