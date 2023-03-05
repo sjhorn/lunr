@@ -4,7 +4,7 @@ email:
 description: >
   A bit like Solr, but much smaller and not as bright
 baseurl: "/lunr"
-url: "http://sjhorn.github.io"
+url: "https://blog.hornmicro.com"
 twitter_username: scottjhorn
 github_username:  sjhorn
 # Build Settings
