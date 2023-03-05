@@ -17,7 +17,7 @@ layout: home
 
   <h3>EVERYWHERE</h3>
 
-  Lunr has no external dependencies and works in your browser or on the server with node.js
+  Lunr is designed to work everywhere dart and flutter work and only depends on collection and intl.
 
 </td>
 </tr>
