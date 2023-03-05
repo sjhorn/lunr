@@ -1,0 +1,15 @@
+# Site Settings
+title: Lunr 
+email: 
+description: >
+  A bit like Solr, but much smaller and not as bright
+baseurl: "/lunr"
+url: "http://sjhorn.github.io"
+twitter_username: scottjhorn
+github_username:  sjhorn
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
