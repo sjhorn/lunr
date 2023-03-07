@@ -78,6 +78,12 @@ flutter pub add lunr
 * Scope searches to specific fields
 * Fuzzy term matching with wildcards or edit distance
 
+## Demo
+
+[Try out the demo](https://lunr_demo.hornmicro.com)
+
+and see the [Associated Source code](https://github.com/sjhorn/lunr_demo)
+
 ## Contributing
 
 See the [`CONTRIBUTING.md` file](CONTRIBUTING.md).
