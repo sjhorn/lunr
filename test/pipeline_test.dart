@@ -1,6 +1,6 @@
 import 'package:lunr/token.dart';
 import 'package:test/test.dart';
-import 'Assert.dart';
+import 'assert.dart';
 
 import 'package:lunr/pipeline.dart' as lunr;
 import 'package:lunr/pipeline.dart';
