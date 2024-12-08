@@ -1,6 +1,6 @@
 import 'package:lunr/lunr.dart';
 import 'package:test/test.dart';
-import 'Assert.dart';
+import 'assert.dart';
 
 void main() {
   group('search', () {

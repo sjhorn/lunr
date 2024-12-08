@@ -6,7 +6,7 @@ import 'package:lunr/vector.dart';
 import 'package:test/test.dart';
 import 'package:lunr/builder.dart' as lunr;
 import 'package:lunr/pipeline.dart';
-import 'Assert.dart';
+import 'assert.dart';
 
 void main() {
   suite('lunr.Builder', () {
